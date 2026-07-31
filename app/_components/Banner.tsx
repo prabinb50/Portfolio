@@ -56,7 +56,7 @@ export default function Banner() {
                         </h1>
 
                         <p className="slide-up-and-fade mt-8 max-w-3xl text-sm lg:text-base leading-relaxed md:leading-7 text-muted-foreground">
-                            Hi! I'm{' '}
+                            Hi! I&apos;m{' '}
                             <span className="font-semibold text-foreground">
                                 Prabin Joshi
                             </span>
@@ -76,7 +76,7 @@ export default function Banner() {
                                 rel="noopener noreferrer"
                                 variant="primary"
                             >
-                                Let's Connect
+                                Let&apos;s Connect
                             </Button>
 
                             <div className="flex items-center gap-3">

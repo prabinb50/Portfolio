@@ -74,7 +74,7 @@ export default function AboutMe() {
                 <div className="mt-10 grid md:grid-cols-12 gap-6 md:gap-0">
                     <div className="md:col-span-5">
                         <h3 className="slide-up-and-fade font-anton text-3xl md:text-4xl lg:text-5xl">
-                            Hi, I'm <br className="hidden md:block" />
+                            Hi, I&apos;m <br className="hidden md:block" />
                             <span className="text-primary">Prabin Joshi.</span>
                         </h3>
                     </div>

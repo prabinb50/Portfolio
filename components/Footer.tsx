@@ -24,16 +24,16 @@ export default function Footer() {
             <div className="container pt-16">
                 <div className="max-w-4xl mx-auto text-center">
                     <h1 className="text-4xl md:text-5xl lg:text-6xl font-anton">
-                        Let's Build
+                        Let&apos;s Build
                         <br />
                         Something Amazing.
                     </h1>
 
                     <p className="mt-6 text-sm lg:text-base text-muted-foreground leading-relaxed md:leading-7">
-                        I'm always interested in discussing exciting projects,
-                        frontend engineering opportunities, and innovative
-                        ideas. If you have something in mind, I'd love to hear
-                        from you.
+                        I&apos;m always interested in discussing exciting
+                        projects, frontend engineering opportunities, and
+                        innovative ideas. If you have something in mind,
+                        I&apos;d love to hear from you.
                     </p>
 
                     <a
