@@ -143,8 +143,9 @@ export const PROJECTS: IProject[] = [
         shortDescription:
             'A full-stack social media platform featuring real-time messaging, rich content creation, authentication, and an interactive social feed.',
         slug: 'viberoom',
-        liveUrl: 'https://electroev.co.uk/',
-        sourceCode: 'https://github.com/Tajmirul/crenotive',
+        liveUrl: 'https://viberoom-omega.vercel.app/',
+        sourceCode:
+            'https://github.com/prabinb50/full-stack-social-media-app-next.js16.git',
         description: {
             overview:
                 'VibeRoom is a full-stack social media platform designed to deliver a fast, scalable, and engaging user experience. Built with Next.js 16, React 19, TypeScript, and Lucia Auth, the platform enables users to connect, share content, communicate in real time, and discover trending topics through a responsive and performance-focused interface.',
@@ -222,8 +223,9 @@ export const PROJECTS: IProject[] = [
         shortDescription:
             'An e-commerce platform featuring secure authentication, a modern storefront, cart and wishlist management, Stripe checkout, and an admin dashboard.',
         slug: 'zyphora',
-        liveUrl: 'https://electroev.co.uk/',
-        sourceCode: 'https://github.com/Tajmirul/crenotive',
+        liveUrl: 'https://zyphora-full-stack-ecommerce-platfo.vercel.app/',
+        sourceCode:
+            'https://github.com/prabinb50/Zyphora-FullStackEcommercePlatform.git',
         description: {
             overview:
                 'Zyphora is a full-stack e-commerce platform built with a React + Vite frontend and an Express + MongoDB backend following a client-server architecture. It features a modern customer storefront with secure authentication, product search, filtering, wishlist and cart management, embedded Stripe checkout, persistent user sessions, and order history. The platform also includes a role-based admin dashboard for product management, featured-product management, order processing, and business analytics.',
@@ -306,8 +308,8 @@ export const PROJECTS: IProject[] = [
         shortDescription:
             'A real-time weather application with interactive maps, air quality insights, forecasts, and optimized SSR.',
         slug: 'skycast',
-        liveUrl: 'https://electroev.co.uk/',
-        sourceCode: 'https://github.com/Tajmirul/crenotive',
+        liveUrl: 'https://skycast-webapp.vercel.app/',
+        sourceCode: 'https://github.com/prabinb50/SkyCast-WeatherApp.git',
         description: {
             overview:
                 'SkyCast is a full-stack weather application built with Next.js that delivers real-time weather conditions, hourly and daily forecasts, air quality information, and interactive map-based location search. By combining SSR and CSR, it provides fast performance, improved SEO, and a seamless user experience.',
@@ -369,7 +371,7 @@ export const PROJECTS: IProject[] = [
             'A restaurant reservation mobile application featuring restaurant discovery, table booking, booking management, and personalized user profiles.',
         slug: 'dinetime',
         sourceCode:
-            'https://github.com/prabinb50/DineTime_MobileApp_With_React_Native_Expo.git',
+            'https://github.com/prabinb50/DineTime-RestaurantBookingMobileApp.git',
         description: {
             overview:
                 'DineTime is a restaurant booking mobile application built with React Native, Expo, and Firebase. The app enables users to discover restaurants, reserve tables, manage bookings, and personalize their profiles through a seamless, responsive, and user-friendly mobile experience.',
@@ -429,8 +431,9 @@ export const PROJECTS: IProject[] = [
         shortDescription:
             'A MERN blog platform featuring secure authentication, rich content management, blog publishing, and advanced search capabilities.',
         slug: 'vexon',
-        liveUrl: 'https://electroev.co.uk/',
-        sourceCode: 'https://github.com/Tajmirul/crenotive',
+        liveUrl: 'https://vexon-fullstack-blog-platform.vercel.app/',
+        sourceCode:
+            'https://github.com/prabinb50/Vexon-FullStackBlogPlatform.git',
         description: {
             overview:
                 'Vexon is a full-stack blog platform built with the MERN Stack, providing a seamless content publishing experience for both readers and authors. The platform enables secure user authentication, rich blog management, search and filtering, and a responsive user interface enhanced with modern animations and performance optimizations.',
@@ -506,7 +509,7 @@ export const MY_EXPERIENCE = {
     roles: [
         {
             title: 'Junior Software Engineer',
-            duration: '1st Nov 2025 – 20th Jun 2026',
+            duration: '1 December 2025 - 15 June 2026',
             responsibilities: [
                 'Developed scalable and secure full-stack features using React.js, Next.js, TypeScript, Node.js, and RESTful APIs, contributing to the continuous enhancement of the HRX Nexus SaaS platform.',
                 'Designed and implemented modern authentication and authorization systems, including MFA, magic link authentication, role-based access control, and secure session management.',
@@ -517,7 +520,7 @@ export const MY_EXPERIENCE = {
 
         {
             title: 'Software Engineer (Intern)',
-            duration: '3rd Jun 2025 – 31st Oct 2025',
+            duration: '29 September 2025 - 30 November 2025',
             responsibilities: [
                 'Built responsive landing pages, reusable UI components, and dashboard interfaces using React.js, Next.js, and Tailwind CSS, ensuring a consistent and user-friendly experience.',
                 'Assisted in integrating frontend applications with backend services through RESTful APIs while supporting API testing and documentation.',
