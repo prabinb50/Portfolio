@@ -135,7 +135,38 @@ export default function Project({
                             {project.title}
                         </h3>
 
-                        <span className="mt-[-4px] lg:mt-0 flex opacity-100 transition-opacity duration-300 lg:opacity-0 lg:group-hover:opacity-100">
+                        <span
+                            role="link"
+                            tabIndex={0}
+                            onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+
+                                if (project.liveUrl) {
+                                    window.open(
+                                        project.liveUrl,
+                                        '_blank',
+                                        'noopener,noreferrer',
+                                    );
+                                }
+                            }}
+                            onKeyDown={(e) => {
+                                if (e.key === 'Enter' || e.key === ' ') {
+                                    e.preventDefault();
+                                    e.stopPropagation();
+
+                                    if (project.liveUrl) {
+                                        window.open(
+                                            project.liveUrl,
+                                            '_blank',
+                                            'noopener,noreferrer',
+                                        );
+                                    }
+                                }
+                            }}
+                            className="mt-[-4px] lg:mt-0 flex cursor-pointer opacity-100 transition-opacity duration-300 lg:opacity-0 lg:group-hover:opacity-100"
+                            aria-label={`Visit ${project.title} live website`}
+                        >
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 width="34"

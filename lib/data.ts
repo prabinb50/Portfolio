@@ -533,7 +533,7 @@ export const MY_EXPERIENCE = {
 
 export const MY_STATS = [
     {
-        value: '1 Year',
+        value: '8 months',
         label: 'Industry Experience',
     },
     {
