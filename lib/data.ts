@@ -509,22 +509,34 @@ export const MY_EXPERIENCE = {
     roles: [
         {
             title: 'Junior Software Engineer',
-            duration: '1 December 2025 - 15 June 2026',
+            duration: '1 January 2026 - 12 July 2026',
+            // responsibilities: [
+            //     'Developed scalable and secure full-stack features using React.js, Next.js, TypeScript, Node.js, and RESTful APIs, contributing to the continuous enhancement of the HRX Nexus SaaS platform.',
+            //     'Designed and implemented modern authentication and authorization systems, including MFA, magic link authentication, role-based access control, and secure session management.',
+            //     'Collaborated on microservices-based architecture, participated in technical planning, and improved application performance through debugging, optimization, and clean coding best practices.',
+            //     'Worked closely with cross-functional teams to deliver maintainable, production-ready software while ensuring scalability, reliability, and an excellent user experience.',
+            // ],
             responsibilities: [
-                'Developed scalable and secure full-stack features using React.js, Next.js, TypeScript, Node.js, and RESTful APIs, contributing to the continuous enhancement of the HRX Nexus SaaS platform.',
-                'Designed and implemented modern authentication and authorization systems, including MFA, magic link authentication, role-based access control, and secure session management.',
-                'Collaborated on microservices-based architecture, participated in technical planning, and improved application performance through debugging, optimization, and clean coding best practices.',
+                'Contributed to an HRM SaaS platform by implementing recruitment and applicant-tracking workflows for job postings, resume review, candidate communication, interviews, and hiring decisions, streamlining the end-to-end recruitment process.',
+                'Implemented appointment-booking and consultation-scheduling features for a Doctor Appointment platform, helping patients arrange consultations more efficiently while keeping appointment workflows organized for healthcare providers.',
+                'Designed and integrated visual table management, table-based order handling, and sales reporting within a Restaurant POS & Management System, enabling staff to monitor table status, manage orders efficiently, and gain clearer visibility into restaurant performance.',
                 'Worked closely with cross-functional teams to deliver maintainable, production-ready software while ensuring scalability, reliability, and an excellent user experience.',
             ],
         },
 
         {
             title: 'Software Engineer (Intern)',
-            duration: '29 September 2025 - 30 November 2025',
+            duration: '29 October 2025 - 31 December 2025',
+            // responsibilities: [
+            //     'Built responsive landing pages, reusable UI components, and dashboard interfaces using React.js, Next.js, and Tailwind CSS, ensuring a consistent and user-friendly experience.',
+            //     'Assisted in integrating frontend applications with backend services through RESTful APIs while supporting API testing and documentation.',
+            //     'Contributed throughout the SDLC by participating in planning, development, testing, debugging, and maintenance of web applications.',
+            //     'Learned and applied modern software engineering practices, including component-based architecture, performance optimization, version control, and collaborative Agile development.',
+            // ],
             responsibilities: [
-                'Built responsive landing pages, reusable UI components, and dashboard interfaces using React.js, Next.js, and Tailwind CSS, ensuring a consistent and user-friendly experience.',
-                'Assisted in integrating frontend applications with backend services through RESTful APIs while supporting API testing and documentation.',
-                'Contributed throughout the SDLC by participating in planning, development, testing, debugging, and maintenance of web applications.',
+                'Built product discovery, category-based browsing, cart, and wishlist features for a Beauty Products store, simplifying the shopping experience.',
+                'Implemented MFA, magic-link authentication, RBAC, and secure session management within a microservices architecture, strengthening identity protection and providing scalable access control across distributed services.',
+                'Improved the UI, responsiveness, and overall user experience of the Fusobotics website, delivering a more polished and user-friendly web experience.',
                 'Learned and applied modern software engineering practices, including component-based architecture, performance optimization, version control, and collaborative Agile development.',
             ],
         },
