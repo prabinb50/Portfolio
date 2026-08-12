@@ -47,7 +47,7 @@ export default function Banner() {
                     <div className="max-w-4xl">
                         <h1 className="slide-up-and-fade font-anton text-4xl md:text-5xl lg:text-6xl">
                             <span className="text-primary">
-                                Software Engineer
+                                Software Developer
                             </span>
                             <br />
                             <span className="ml-4">
