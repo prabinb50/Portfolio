@@ -60,12 +60,12 @@ export default function Banner() {
                             <span className="font-semibold text-foreground">
                                 Prabin Joshi
                             </span>
-                            , a Software Engineer specializing in React,
-                            Next.js, TypeScript, Node.js, and modern web
-                            technologies. I build scalable, secure, and
-                            high-performance web applications with a strong
-                            focus on clean architecture, maintainable code, and
-                            exceptional user experiences.
+                            , a Software Developer specializing in Next.js,
+                            TypeScript, MERN Stack, and modern web technologies.
+                            I build scalable, secure, and high-performance web
+                            applications with a strong focus on clean
+                            architecture, maintainable code, and exceptional
+                            user experiences.
                         </p>
 
                         <div className="slide-up-and-fade mt-10 flex flex-col items-start gap-4 md:gap-5 md:flex-row md:items-center">

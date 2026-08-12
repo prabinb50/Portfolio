@@ -6,7 +6,7 @@ import { ScrollTrigger } from 'gsap/all';
 gsap.registerPlugin(ScrollTrigger, useGSAP);
 
 const ABOUT_PARAGRAPHS = [
-    `I'm a Software Engineer and React/Next.js Developer with industry experience building secure, scalable, and user-focused web applications. I'm passionate about transforming ideas into reliable digital products through clean architecture, modern technologies, and thoughtful engineering.`,
+    `I'm a Software Developer and React/Next.js Developer with industry experience building secure, scalable, and user-focused web applications. I'm passionate about transforming ideas into reliable digital products through clean architecture, modern technologies, and thoughtful engineering.`,
 
     `I believe exceptional software is built through continuous learning, attention to detail, and solving real-world problems. Whether I'm developing full-stack applications, exploring new technologies, or improving existing products, I strive to write clean code that delivers lasting value to users.`,
 ];
